@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1533431366 source:/home/taufik/workspace/C++/SimpleGamesTicTocGames/SimpleGamesTicTacToc/SimpleGamesTicTacToc.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
